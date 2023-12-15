@@ -1,0 +1,135 @@
+header .navbar{ background-color: #0c3c64!important;}
+.navbar-light .navbar-nav .nav-link{ color:#f1d766; font-family: Grigolia;}
+ul li a
+{
+    font-weight:bold;
+    font-size:18px;
+}
+
+span
+{
+    color: #f1d766;
+}
+.container{
+    background-color: #373334!important;
+}
+       
+   header .navbar .dropdown-menu .dropdown-item:hover {
+
+       background: #16181b;
+   }
+   .navbar-light .navbar-nav .nav-link:hover{ color:#524e42;}
+.btn.btn-outline-primary:hover
+{ color: #b47f12}
+.btn.btn-outline-primary:focus
+{
+    color: #b47f12;
+}
+.menu_zole
+{
+    width:100%;
+}
+header:hover{
+        border-bottom: 20px solid #f1d766;
+}
+
+
+.cursor {
+  cursor: pointer;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 40%;
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+.con_map{
+    height:800px; 
+    margin: 80px 100px 100px 100px; 
+    margin-bottom:220px;
+}
+.contact_info
+{
+    width:80%; 
+    height:100px;
+    margin:auto; 
+}
+.contact_info_details
+{
+    width:49%; 
+    float:left;
+    border-left:6px; 
+    border-left-style: solid;  
+    border-left-color: #efb111;
+    margin-right:0.5%;
+}
+@media (max-width: 991px)
+  {
+           
+           .slaidi
+           {
+               max-height:420px;
+           }
+          .position-relative
+          {
+              padding-left:0;
+          }
+          .nav-item
+          {
+              margin-left:20px;
+              margin-right:10px;
+          }
+          .contact_infoo
+          {
+              width:100%;
+             
+              text-align:center;
+          }
+ }
+ 
+ @media (min-width: 1200px)
+  {
+           .container{
+              width:97%!important;
+              max-width:97%;
+              margin-bottom:30px;
+           }
+           .slaidi
+           {
+               max-height:800px;
+           }
+          
+ }
+  @media (min-width: 992px)
+  {
+           .contact_infoo
+          {
+               width:33.333%;
+              float:left;
+              text-align:center;
+              
+             
+          }
+          
+ }

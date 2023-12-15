@@ -1,0 +1,35 @@
+
+    <!-- BEGIN: Vendor JS-->
+    <script src="<?=base_url();?>assetss/admin/js/vendors.min.js"></script>
+    
+    <script src="<?=base_url();?>assetss/admin/js/select2.full.min.js"></script>
+    
+    
+    <script src="<?=base_url();?>assetss/admin/js/katex.min.js"></script>
+    <script src="<?=base_url();?>assetss/admin/js/highlight.min.js"></script>
+    <script src="<?=base_url();?>assetss/admin/js/quill.min.js"></script>
+
+    <!-- BEGIN: Theme JS-->
+    <script src="<?=base_url();?>assetss/admin/js/app-menu.min.js"></script>
+    <script src="<?=base_url();?>assetss/admin/js/app.min.js"></script>
+    <script src="<?=base_url();?>assetss/admin/js/customizer.min.js"></script>
+    <script src="<?=base_url();?>assetss/admin/js/swiper.min.js"></script>
+
+
+    <script src="<?=base_url();?>assetss/admin/js/sweetalert2.all.min.js"></script>
+    <script src="<?=base_url();?>assetss/admin/js/jquery.validate.min.js"></script>
+    <script src="<?=base_url();?>assetss/admin/js/cleave.min.js"></script>
+    <script src="<?=base_url();?>assetss/admin/js/cleave-phone.us.js"></script>
+   
+    <script src="<?=base_url();?>assetss/admin/js/form-file-uploader.min.js"></script>
+    <script src="<?=base_url();?>assetss/admin/js/app-email.min.js"></script>
+    <script src="<?=base_url();?>assetss/admin/js/ext-component-swiper.min.js"></script>
+    <script src="<?=base_url();?>assetss/admin/js/flatpickr.min.js"></script>
+    <script src="<?=base_url();?>assetss/admin/js/form-pickers.min.js"></script>
+    <script src="<?=base_url();?>assetss/admin/js/editor.min.js"></script>
+
+     
+     <script src="<?=base_url();?>assetss/admin/js/page-blog-edit.min.js"></script>
+     <script src="<?=base_url();?>assetss/admin/js/dropzone.min.js"></script>
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="<?=base_url();?>assetss/admin/js/page-account-settings.min.js"></script>
